@@ -115,3 +115,8 @@ yarn-error.log*
 # Project-specific files
 # WARP.md is for development guidance only
 WARP.md
+
+# CI/CD artifacts
+*.tar.gz
+*.zip
+CHANGELOG.md
