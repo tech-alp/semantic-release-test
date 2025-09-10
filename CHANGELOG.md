@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/tech-alp/mylib-project/compare/v1.0.0...v1.1.0) (2025-09-10)
+
+
+### Features
+
+* add version information function to library API ([6457370](https://github.com/tech-alp/mylib-project/commit/645737085c7eb2a2713fcc97bbbdc0509eebbedd))
+
 # 1.0.0 (2025-09-10)
 
 
