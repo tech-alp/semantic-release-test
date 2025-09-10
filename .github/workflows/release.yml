@@ -96,6 +96,15 @@ jobs:
           name: build-artifacts
           path: build/
 
+      - name: Create minimal package.json for semantic-release
+        run: |
+          echo '{
+            "name": "mylib-project",
+            "version": "0.0.0-development",
+            "private": true,
+            "description": "C++17 library project"
+          }' > package.json
+
       - name: Run semantic release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
