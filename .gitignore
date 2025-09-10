@@ -1,0 +1,117 @@
+# Build directories and artifacts
+build/
+Build/
+BUILD/
+cmake-build-*/
+out/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+*.cmake
+
+# Build outputs
+*.exe
+*.out
+*.app
+*.so
+*.so.*
+*.dll
+*.dylib
+*.a
+*.lib
+*.o
+*.obj
+
+# Package managers
+conan.lock
+vcpkg_installed/
+
+# IDE files
+# Qt Creator
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+*.pro.user
+*.pro.user.*
+qtcreator-*
+
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# CLion
+.idea/
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Linux
+*~
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.temp
+*~
+
+# Logs
+*.log
+
+# Coverage reports
+*.gcov
+*.gcda
+*.gcno
+coverage.info
+coverage/
+
+# Doxygen documentation
+doc/html/
+doc/latex/
+doc/xml/
+
+# Package files
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.zip
+
+# Node.js and semantic-release (dev tooling only)
+node_modules/
+package.json
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.releaserc.json
+.releaserc.json.backup
+
+# Project-specific files
+# WARP.md is for development guidance only
+WARP.md
