@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-find_package(TvmCmakeTools REQUIRED)
-
-include(GetProjectVersion)
+include(cmake/GetProjectVersion.cmake)
 
 get_project_version(PROJECT_VERSION)
 
