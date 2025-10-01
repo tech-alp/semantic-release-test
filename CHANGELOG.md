@@ -1,3 +1,16 @@
+# [1.2.0](https://github.com/tech-alp/semantic-release-test/compare/v1.1.0...v1.2.0) (2025-10-01)
+
+
+### Bug Fixes
+
+* cmake error ([c911c57](https://github.com/tech-alp/semantic-release-test/commit/c911c57bdde4557f13fd576be15a5d42ef9794d8))
+
+
+### Features
+
+* add function to fetch project version from Git tags ([afce3e9](https://github.com/tech-alp/semantic-release-test/commit/afce3e92faa9bfd8a283ca4bb5641ccbfbce182d))
+* add git version to cmake project ([4ac2c2d](https://github.com/tech-alp/semantic-release-test/commit/4ac2c2d823e8537d8b2998845044780f6431a71a))
+
 # [1.1.0](https://github.com/tech-alp/mylib-project/compare/v1.0.0...v1.1.0) (2025-09-10)
 
 
