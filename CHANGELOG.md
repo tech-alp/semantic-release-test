@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/tech-alp/semantic-release-test/compare/v1.2.0...v1.3.0) (2025-10-03)
+
+
+### Features
+
+* add .releaserc.json configuration for semantic-release ([5609da7](https://github.com/tech-alp/semantic-release-test/commit/5609da74c9d78f645be4e1e2611e402436334f86))
+* update release workflow and versioning scripts ([21926a9](https://github.com/tech-alp/semantic-release-test/commit/21926a9ceb95b9866b59d5c38a71ffa96a0f3ccc))
+
 # [1.3.0-beta.1](https://github.com/tech-alp/semantic-release-test/compare/v1.2.0...v1.3.0-beta.1) (2025-10-03)
 
 
