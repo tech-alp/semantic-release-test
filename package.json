@@ -1,6 +1,16 @@
 {
   "name": "mylib-project",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "private": true,
-  "description": "C++17 library project"
+  "description": "C++17 library project",
+    "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^9.2.6",
+    "semantic-release": "^22.0.12"
+  }
 }
