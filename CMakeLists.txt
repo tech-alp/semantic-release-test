@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(mylib VERSION 1.0.0)
+project(mylib VERSION 1.3.0-beta.2)
 
 set(CMAKE_CXX_STANDARD 17)
 

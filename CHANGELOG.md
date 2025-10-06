@@ -1,3 +1,10 @@
+# [1.3.0-beta.2](https://github.com/tech-alp/semantic-release-test/compare/v1.3.0-beta.1...v1.3.0-beta.2) (2025-10-06)
+
+
+### Features
+
+* update project version to 1.0.0 in CMakeLists.txt ([16f4cca](https://github.com/tech-alp/semantic-release-test/commit/16f4ccac065758b55e1a2762385efca70ee9504f))
+
 # [1.3.0-beta.1](https://github.com/tech-alp/semantic-release-test/compare/v1.2.0...v1.3.0-beta.1) (2025-10-03)
 
 
